@@ -1,1 +1,1 @@
-# aikan-
+静态加速：https://cdn.jsdelivr.net/gh/LXF2020888/aikan@main/
